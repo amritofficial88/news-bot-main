@@ -76,16 +76,13 @@ NewsBot is your go-to AI assistant for quickly extracting insights from news art
 ## 🔮 Future Enhancements
 
 1. Image-Based Text Extraction
-- Integrate Optical Character Recognition (OCR) to extract and analyze text from images embedded within documents or uploaded directly.
+- Integrating Optical Character Recognition (OCR) to extract and analyze text from images embedded within documents or uploaded directly.
 
 2. Handwritten & Scanned Document Support
-- Extend compatibility to scanned PDFs and handwritten content using OCR tools, enabling processing of a broader range of document types.
+- Extending compatibility to scanned PDFs and handwritten content using OCR tools, enabling processing of a broader range of document types.
 
 3. Multi-Document Cross Analysis
-- Allow users to submit multiple documents or articles simultaneously for comparison, aggregation, and context-aware question answering.
-
-4. Conversational Memory (Chain Memory)
-- Introduce memory components that preserve the context of previous interactions, enabling multi-turn dialogue and a more natural Q&A experience.
+- Allowing users to submit multiple documents or articles simultaneously for comparison, aggregation, and context-aware question answering.
 
 
 ## Author
